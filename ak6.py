@@ -12,4 +12,4 @@ for i in a:
  hypothesis[j]='?'
 print(hypothesis)
 print("\n the maximally specific hyothesis for a given training examples\n")
-print(hypothesis
+print(hypothesis)
